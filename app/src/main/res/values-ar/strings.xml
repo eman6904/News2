@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sports">الرياضيات</string>
+    <string name="science">العلوم</string>
+    <string name="technology">التكنولوجيا</string>
+    <string name="business">الأعمال</string>
+    <string name="health">الصحة</string>
+    <string name="entertainment">الترفيه</string>
+    <string name="pick_your_category_of">أختر الفئة التي تناسب</string>
+    <string name="interest">أهتمامك✨</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="settings">الأعدادات</string>
+    <string name="arabic">عربي</string>
+    <string name="english">أنجليزي</string>
+    <string name="categories">الفئات</string>
+    <string name="something_went_wrong">حدث خطأ أثناء التحميل</string>
+    <string name="check_your_internet_connection">حدثت مشكلة في الاتصال بالأنترنت</string>
+</resources>
