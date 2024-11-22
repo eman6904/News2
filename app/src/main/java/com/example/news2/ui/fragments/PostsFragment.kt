@@ -56,7 +56,7 @@ class PostsFragment : Fragment() {
                 is UIState.Success -> {
 
                     binding.progressBar.visibility = View.GONE
-                    if (state.data.articles.isNotEmpty()) {
+                    if (newsViewModel.newsList.value!!.isNotEmpty()) {
 
                         binding.postsList.visibility = View.VISIBLE
                         binding.error.visibility = View.GONE
